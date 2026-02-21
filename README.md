@@ -19,13 +19,13 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/Freecad-314CB0?style=for-the-badge&logo=freecad&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FF6C2C?style=for-the-badge&logo=autodesk&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white).
 
 
 ## Public Repositories/Projects
-🚂 - **CANDERAS** - CNN-based Anomaly Detection on Rail Track Systems on the Edge   
+🚂 - **CANDERAS** - CNN-based Anomaly Detection on Rail Track Systems on the Edge.   
 🤖 - **Whispepper** - Is a project enabling voice interaction on the Aldebaran 'Pepper' robot using OpenAI's whisper model and Meta's LlaMA3 model with Ollama.   
-🧮 - **PicoMul** - Developed a parametrizable approximate multiplier unit for the picoSoC using the picoRV32 RISC-V core   
+🧮 - **PicoMul** - Developed a parametrizable approximate multiplier unit for the picoSoC using the picoRV32 RISC-V core.     
 💡 - **Prosim** - Is a tool for numerical simulation of electromagnetic waves using the angular spectrum method.
 
 
